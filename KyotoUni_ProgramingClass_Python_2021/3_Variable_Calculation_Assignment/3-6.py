@@ -2,7 +2,7 @@ a = 2**200
 print(a)
 
 a = 1
-b = 1/2
+b = 1 / 2
 c = "ABC"
 print(a)
 print(b)
