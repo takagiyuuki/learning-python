@@ -31,5 +31,7 @@
 #    a.append(i*i)
 #    print(a)
 
+x =range(5)
+print(x)
 a = [i * i for i in range(5)]
 print(a)

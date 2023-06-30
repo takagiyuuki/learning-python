@@ -10,10 +10,27 @@
 ### ファイル一括作成コマンド
 
 ````bash
-cd KyotoUni_ProgramingClass_Python_2021
-mkdir  ./{3_Variable_Calculation_Assignment, 4_List, 5_Control_flow}
-touch 3_Variable_Calculation_Assignment/3-{1..10}.py
-touch 4_List/4-{1..10}.py
-touch 5_Control_flow/5-{1..10}.py
+cd KyotoUni_LearingPython_2021
+mkdir  ./{ 3 4 5 6 8 9 10 11 12 13 14 15 16 17 }
+touch 3/3-{1..10}.py
+touch 4/4-{1..10}.py
+touch 5/5-{1..10}.py
+touch 6/6-{1..10}.py
+touch 7/7-{1..10}.py
+touch 8/8-{1..10}.py
+touch 9/9-{1..10}.py
+touch 10/10-{1..10}.py
+touch 11/11-{1..10}.py
+touch 12/12-{1..10}.py
+touch 13/13-{1..10}.py
+touch 14/14-{1..10}.py
+touch 15/15-{1..10}.py
+touch 16/16-{1..10}.py
+touch 17/17-{1..10}.py
 ````
 ※使わなかったファイルは適宜削除
+
+````powershell
+cd .\aaa
+dir 
+````
