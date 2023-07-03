@@ -11,7 +11,8 @@ def get_positive_numeral():
         except ValueError:
             print(x, "は数値に変換できません")
             continue
-        except:
+        except Exception as e:
+            print(f"How exceptional! {e}")
             print("予期していないエラーです")
             exit()
         if float(x) <= 0:
